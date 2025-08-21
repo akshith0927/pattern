@@ -5,7 +5,7 @@
 import java.io.*;
 
 // Main class
-class GFG {
+public class pattern{
 
     // Main driver method
     public static void main(String[] args)
